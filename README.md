@@ -1,4 +1,3 @@
-
 # offside-detection
 
 
@@ -88,3 +87,17 @@ tkinter
 python mainGUI.py
 ```
 3. The application makes a prediction on which team is attacking in the picture and marks this team as Team A but the user still can choose which team is attacking beetween Team A and Team B.
+
+## Örnek Çıktılar
+
+### 2D
+
+![2D Sonuç](result/result2D.png)
+
+###classification
+
+![Takım Sınıflandırma](result/teamClassification.png)
+
+### 3D
+
+![3D Sonuç](result/result3D.jpg)
